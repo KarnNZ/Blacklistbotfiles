@@ -1,0 +1,12 @@
+[
+  {
+    "wallet": "0x000000000000000000000000000000000000dead",
+    "label": "Example Rug Wallet",
+    "alerts_enabled": true
+  },
+  {
+    "wallet": "0x1111111111111111111111111111111111111111",
+    "label": "Suspicious Dev Wallet",
+    "alerts_enabled": false
+  }
+]
